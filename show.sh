@@ -1,0 +1,1 @@
+./run-graph.sh ../vids/movie.mov && ./run-graph.sh ../vids/hm.mp4 && ./run-graph.sh ../vids/sample-hard.mp4 && ./run-graph.sh ../vids/movie.mov && ./run-graph.sh ../vids/hm.mp4 && ./run-graph.sh ../vids/sample-hard.mp4
