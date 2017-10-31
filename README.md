@@ -5,7 +5,6 @@ how to use in 2016
   - OpenMDAO has been rewritten, you have to go grab github.com/openmdao/openmdao-framework@0.9.8
   - pip2 install traits
 
-
 ![Alt text](http://i.imgur.com/2ngZopS.jpg "Screenshot")
 
 webcam-pulse-detector
